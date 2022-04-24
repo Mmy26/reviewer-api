@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  title: MyString
+  description: MyString
+  publishedAt: MyString
+  thumbnailsUrl: MyString
+  viewCount: 1
+  subscriberCount: 1
+  videoCount: 1
+
+two:
+  id: 1
+  title: MyString
+  description: MyString
+  publishedAt: MyString
+  thumbnailsUrl: MyString
+  viewCount: 1
+  subscriberCount: 1
+  videoCount: 1
